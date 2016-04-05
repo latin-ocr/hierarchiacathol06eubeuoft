@@ -1,0 +1,307 @@
+462
+
+Bova 129
+Bovino 129
+Braga 129
+Braganca 130
+Brescia 131
+Breslau 445
+Bressanone 131
+Brest 444
+Brindisi 132
+Brixen 131
+Brno 133
+Bruges 131
+Brugge 131
+Brugnato 132
+Briinn 133
+Budua 133
+Budva 133
+Budweis 133
+Buenos Aires 417
+Bur os 134
+Byb us 122
+
+C
+
+Cadiz 222
+Caesarea 137
+Caesaropolis 137
+Cagli 140
+
+Ca liari 139
+Cafiors 156
+Caiazzo 138
+Calahorra 138
+Calama 139
+Callinicum 141
+Callipolis 141
+Calvi Risorta 141
+Calydon 142
+Camachus 142
+Cambrai 143
+Cambysopolis 142
+Camerino 143
+Campagna 144
+Campli 320
+Canarias 144
+Canatha 145
+Canea 70
+Canopus 145
+Caorle 146
+Capaccio 147
+
+Capharnaum 145 ’
+
+Capodistria 247
+Capri 146
+Capsus 146
+Capua 146
+Caracas 436
+Carcassonne 147
+Cariati 148
+Carinola 140
+Carpasia 148
+Carpentras 149
+Carpi 149
+Carrhae 149
+Cartagena 150
+Carthago 149
+
+Carystus 1 51
+
+Casale Monferrato 15 1
+Caserta 1 52
+
+Cashel 152
+
+Casius 152
+Cassano all'Ionio 152
+
+Castellammare di Stabia 154
+
+Castel Sardo 80
+Castellaneta 153
+Castelo Branco 154
+Castoria 153
+
+Castres 154
+
+Castro 153
+
+Catan-ia 156
+Catanzaro 155
+Cattaro 156
+
+Cava 158
+
+Cavaillon 157
+
+Ceba 313
+
+Cefalonia 159
+Cefalu 160
+
+Ceneda 158
+Centuria 159
+Ceomania 159
+Ceramus 160
+Cerenzia 148
+
+Cervia 160
+
+Cesena 137
+
+Ceske Budejovice 133
+Cestrus 161
+
+Ceuta 376
+Chalcedon 161
+Chalcis 161
+Chalon-sur-Saone 136
+Chalons-sur-Marne 155
+Chambery 162
+Charcas 341
+Chariopolis 162
+Chartres 148
+
+Chelm 162
+Chehnno 188
+Chersonesus 163
+Chiapas 163
+Chiemsee 163
+Chieti 400
+
+Chioggia 169
+
+Chio 164
+
+Chios 164
+
+Chiusi 171
+Chrysopolis 164
+Chuquisaca 341
+Chur 189
+
+Chytri 165
+
+Cingoli 109
+
+Cinna 165
+
+Cisamus 166
+
+Citta di Castello 167
+Citta della Pieve 168
+Cittaducale 167
+Cittanova 68
+Ciudad Rodrigo 166
+Civita 80
+
+Civita castellana 167
+
+Appendix III
+
+Claudiopolis 169
+Clermont-Ferrand 169
+Clogher 170
+Clonfert 170
+Clonmacnoise 171
+Cloyne 170
+
+Clysma 171
+
+Cochin 171
+
+Coimbra 172
+
+Colle di Val d'Elsa 172
+Colophon 174
+Colossae 174
+Comacchio 174
+Comana 174
+Comayagua 175
+Comminges 181
+Como 175
+Concepcion 177
+
+‘Concordia Sagittaria 178 ,
+
+Condom 178
+Congo 179
+Connor 202
+Consetans 179
+Constantia 180
+Constantinopolis 180
+conversano 181
+Conza 176
+Corada 147
+C61d0ba 182
+Corfu 182
+Coria 157
+Corinthus 183
+Cork 182
+Corneto 294
+Corone(a) 184
+Cortona 184
+Corvey 181
+Corycus 184
+Cosenza 190
+Cottone 185
+Couserans 179
+Coutances 179
+Cranganore 186
+Crema 186
+Cremona 186
+Croae 187
+Crotone 185
+Csanad 188
+Cuenca 177, 178
+Curium 189
+Curzola 189
+Cuzco 190
+Cybistra 191
+Cydonia 70
+
+Cyrene 191
+
+D
+
+Damascus 191
+Damietta 192
+Danaba 192
+Dardanus 192
+Daulia 193
+Dausara 192
+
+Dax 92
+
+Derbe 193
+Dercus 193
+Derry 194
+Diana 195
+Dibona 195
+Die 195
+
+Digne 196
+Dijon 197
+Diocaesarea 196
+Dioclea 197
+Diocletiana 197
+Diocletianopolis 197
+Dionysias 197
+Dium 196
+Diyarbekir 79
+Doberus 198
+Dol 198
+Doliche 198
+Domitiopolis 199
+Doomik 411
+Dora 200
+Dorylaeum 200
+Down 202
+Drago 200
+Dragobitia 200
+Drasus 200
+Drizipara 201
+Dromore 201
+Dublin 201
+Dubrovnik 351
+Dura 203
+Durango 202
+Durazzo 203
+Durres 203
+
+E
+
+Echinus 204
+Edessa 205
+Eger 70
+Eichstzitt 212
+Eleutheropolis 206
+Elne 206
+Elphin 207
+Elusa 207
+Elvas 207
+Embrun 203
+Emly 152
+Emmaus 208
+Emona 68
+Enos 68
+Ephesus 209
+Epiphania 209
+Erdely 412
+Erlau 70
+Ermland 432
+
+’ Erythrae 209
+
+Ε thrum 209
+Es us 210
+Esztergom 387
+Eucarpia 210
+Eumenia 211
+Eurum 211
+
+ 
+

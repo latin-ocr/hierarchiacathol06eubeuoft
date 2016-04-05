@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hierarchiacathol06eubeuoft_0005.png"; bbox 0 0 2502 3470; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 130 1000 2160 1481">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 130 1000 2160 1527">
+     <span class='ocr_line' id='line_1_1' title="bbox 130 1000 2160 1170; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 130 1008 1118 1167; x_wconf 66' lang='lat' dir='ltr'>HIERARCHIA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1250 1000 2160 1170; x_wconf 70' lang='lat' dir='ltr'>CATHOUCA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 130 1352 2159 1481; baseline 0.001 -5"><span class='ocrx_word' id='word_1_3' title='bbox 130 1352 550 1478; x_wconf 77' lang='lat' dir='ltr'><em>MEDH</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 633 1355 790 1476; x_wconf 76' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_5' title='bbox 873 1355 1757 1481; x_wconf 66' lang='lat' dir='ltr'>RECENTIORIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1832 1357 2159 1479; x_wconf 67' lang='lat' dir='ltr'>AEVI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 980 1723 1305 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 980 1723 1305 1765">
+     <span class='ocr_line' id='line_1_3' title="bbox 980 1723 1305 1765; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 980 1723 1305 1765; x_wconf 86' lang='lat' dir='ltr'>VVVVVVVVV</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
